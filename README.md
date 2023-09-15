@@ -41,6 +41,6 @@ Step 2. **Cloning the Repository**:
      
    - You now have a local copy of the repository on your machine.
 
+## **Demonstration of the certificate with unique code**
 
-
-![**Demonstration of the certificate with unique code**](https://github.com/vijayarawat19/Educational-Digital-Certificates/blob/main/Certificate%20demo.png)
+![](https://github.com/vijayarawat19/Educational-Digital-Certificates/blob/main/Certificate%20demo.png)
