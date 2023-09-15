@@ -21,11 +21,26 @@ This project aims to create a secure and tamper-proof educational digital certif
 
 ## Usage
 
-To get started with this project, follow these steps:
+## Getting Started
 
-1. Clone the repository:
+Follow these steps to clone the repository and start contributing:
 
-   ```shell
-   git clone https://github.com/yourusername/educational-certificates.git
+Step 1. **Prerequisites**: Before you begin, ensure you have met the following requirements:
+   - Git: You need Git installed on your local machine. You can download and install Git from [here](https://git-scm.com/downloads).
+
+Step 2. **Cloning the Repository**:
+   - Open your terminal or command prompt.
+   - Navigate to the directory where you want to clone the repository using the `cd` command. For example, to clone into your desktop directory:
+     ```bash
+     cd ~/Desktop
+     ```
+   - Clone the repository by running the following command:
+     ```bash
+      https://github.com/vijayarawat19/Educational-Digital-Certificates.git
+     ```
+     
+   - You now have a local copy of the repository on your machine.
+
+
 
 ![**Demonstration of the certificate with unique code**](https://github.com/vijayarawat19/Educational-Digital-Certificates/blob/main/Certificate%20demo.png)
